@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @samhub91
 - 👀 I’m interested in web development, app developement, networks and cybersecurtiy
 - 🌱 I’m currently learning/experimenting with/being exposed to different stacks,different frameworks,different libraries, and architectures
-- 💞️ I’m looking to collaborate on anything app and web developemnt
 - 📫 How to reach me 091smwangi@gmail.com
 
 <!---
